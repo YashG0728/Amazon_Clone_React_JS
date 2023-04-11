@@ -1,0 +1,16 @@
+Features of Java
+JDK, JRE, JVM
+Variables and Datatypes
+Operators & Keywords
+Constructor
+OOPs concepts in Java
+Abstraction & Inheritance(IS-A, HAS-A)
+Garbage Collection
+Memory Allocation
+Memory Architecture
+Abstract Vs Interface
+String, StringBuffer, StringBuilder
+Array Vs ArrayList
+Comparable Vs Comparator
+Java toString() method-
+equal() & hashCode()-
